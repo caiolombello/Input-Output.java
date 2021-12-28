@@ -1,4 +1,4 @@
-package IOCaracter;
+package IO.Caracter;
 
 import java.io.*;
 import java.util.Scanner;
